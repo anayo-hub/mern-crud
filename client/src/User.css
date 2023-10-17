@@ -1,0 +1,23 @@
+/* Users.css */
+.users-container {
+  margin-top: 50px;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+.table th,
+.table td {
+  text-align: center;
+}
+
+.action-buttons .btn {
+  width: 80px;
+}
